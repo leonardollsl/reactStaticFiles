@@ -1,3 +1,11 @@
 .menu {
     padding: 20px 250px;
 }
+
+.header {
+  align-items: center;
+  background-image: url('/public/assets/cardapio/header.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+    }
